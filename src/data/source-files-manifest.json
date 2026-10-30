@@ -1,0 +1,33 @@
+{
+  "association": "Tirupati\u2013Tirumala Photographer's Association",
+  "sourceFiles": [
+    {
+      "file": "A.pdf",
+      "pages": 100
+    },
+    {
+      "file": "B.pdf",
+      "pages": 100
+    },
+    {
+      "file": "C.pdf",
+      "pages": 100
+    },
+    {
+      "file": "D.pdf",
+      "pages": 100
+    },
+    {
+      "file": "E.pdf",
+      "pages": 23
+    },
+    {
+      "file": "01.pdf",
+      "pages": 38
+    }
+  ],
+  "totalPagesProcessed": 461,
+  "staticMemberRecords": 461,
+  "portraitImagesIncluded": 461,
+  "processing": "OCR best-effort transcription from supplied scanned membership forms; all records included as fixed local data."
+}
